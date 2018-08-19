@@ -1,0 +1,49 @@
+{
+	"basicdetails": {
+		"image":"im.jpg",
+		"name" : "keerthana",
+		"email":"abcde@nomail.com",
+		"phone":"123456789",
+		"address": "somewhere under the forest"
+	},
+	"education":[{
+		"course":"engineering",
+		"college":"vignan",
+		"percentage":"75%"
+	},
+	 {
+		"course":"inter-MPC",
+		"college":"oakridge international",
+		"percentage":"82%"
+	},
+	{
+		"course":"ICSE",
+		"school":"VVS",
+		"grade" :"9.5"
+	}
+],
+    "skills" :[
+  {
+  	"name":"operating systems",
+  	"value":"windows,linux,MAC"
+  },
+  {
+  	"name":"programming languages",
+  	"value":"C,C++,java"
+  }
+  ],
+    "carrier":{
+    	"architechture":"i am experienced with internship for 2 years. I would like to continue my career in this feild."
+    },
+    "achievements" :[
+    	"best performance in naata internship",
+    	"second place in camilin all india painting contest"
+    	
+
+    ],
+	              
+"description":{
+	"des":"I am a college going student"
+              
+}
+}

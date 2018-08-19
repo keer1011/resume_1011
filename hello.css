@@ -1,0 +1,13 @@
+.main{
+	display:flex;
+	background-color:blue;
+	width:100%;
+    }
+    left{
+    background-color : yellow;
+    width : 80%;
+}
+right{
+	background-color : green;
+	width : 80%;
+}
